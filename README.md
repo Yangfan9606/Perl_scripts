@@ -5,4 +5,5 @@ Get.seq.from.fa.pl  # Fetch fasta sequence from given fasta files using: [Chr] [
 
 GetFaSeq.of.Pos.pl  # Fetch fasta sequence from given fasta files using: [Chr] [Start-End] or bed files.
 
-pie.data.sum.pl  # 
+pie.data.sum.pl  # Combine files with certain columns.
+
