@@ -12,7 +12,7 @@ Program : Get Sequence(site/region/.bed file) from file.FA file
 Usage: .pl [Genome.fa/RNA.fa] [-t chr/-t gene)] [chr/gene_id] [Pos(100)/Pos1-Pos2(100-200)]
            
 		  /Data/Database/hg38/GRCh38.fa
-	-s		(0/1) default [1] 使用bed文件时，-链是否自动转成正链 [即是否考虑strand信息]
+	-s		(0/1) default [1] strand info or not (only work for bed file) 使用bed文件时，-链是否自动转成正链 [即是否考虑strand信息]
 	-f		file.bed (use -f will output a new FA file)
 	-t		chr/gene (chr:use Genome.fa as FA_file; gene: use .RNA.fa as FA_file[default:chr])
 	-help		output help information
