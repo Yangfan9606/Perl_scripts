@@ -65,6 +65,10 @@ pie.data.sum.pl  # Combine files with certain columns.
 # R
 random.select.seq.from.fa.pl    # Random select [n] sequence from fasta.
 
+RPKM.calculation.pl    # Calculate RPKM with HTseq-count output.
+
+RPKM.normalization.pl    # Normalize RPKM with 'RPKM.calculation.pl' output.
+
 # S
 SamFlag.pl    # Output [flag] info.
 
