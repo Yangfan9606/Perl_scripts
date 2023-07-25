@@ -29,6 +29,9 @@ Bowtie.summary.pl    # Summary the bowtie alignment out.
 
 bp.of.seq.pl    # Show sequence info about length/GC/base and output 'reverse', 'reverse complementary', 'complementary'.
 
+# D
+Deseq2.v2.pl    # Generate deseq2 R and shell by using 'deseq2.v2.sh'. 
+
 # F
 fa.gtf.pl    # Creat gtf use fasta file.
 
@@ -65,4 +68,10 @@ random.select.seq.from.fa.pl    # Random select [n] sequence from fasta.
 # S
 SamFlag.pl    # Output [flag] info.
 
+split.file.pl    # Split file with [n] lines.
 
+STAR.summary.v2.pl    # Summary the STAR alignment out.
+
+StatisticsDescriptive.pl    # Output statistics info of input values. Need the Statistics::Descriptive module.
+
+Super.Alignment.pl    # Generate the alignment shell by using 'super.Alignment.sh'.
