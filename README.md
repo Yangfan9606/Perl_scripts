@@ -50,6 +50,8 @@ fastQ.ASII.pl    ...... output ASII score of fastq file. Only adapted for Phred3
 
 fastq2fasta.pl    ...... fastq to fasta.
 
+fa.random.pl    ...... Random select sequence from .fa file.
+
 # G
 get.reads.form.fastq.pl    ...... output reads in fastq file with reads name.
 
