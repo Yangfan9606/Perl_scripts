@@ -75,6 +75,9 @@ PE_Reads.Strand.split.pl    ...... Reads split to POS and NEG with strand info.
 
 pie.data.sum.pl  ...... Combine files with certain columns.
 
+# Q
+Quantile_Normalization.pl  ...... Quantile normalization wiht [Matrix] input.
+
 # R
 random.select.seq.from.fa.pl    ...... Random select [n] sequence from fasta.
 
