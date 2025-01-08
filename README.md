@@ -14,6 +14,8 @@ anno.gene.NCBI_RPKM.pl    ...... Get "NCBI full_rpkm of 27 tissues" annotaiton w
 
 anno.gene.NCBI_RPKM.tissue.pl    ...... Get "NCBI full_rpkm of [input] tissues" annotaiton with [ENTREZID].
 
+anno.GO_KEGG.pl    ...... Get "GO" and "KEGG" annotation with [SYMBOL].
+
 # B
 bam_ID.count.pl    ...... Count reads with the same region. Paired-end reads would consider the insert overlap.
 
