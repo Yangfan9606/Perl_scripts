@@ -10,6 +10,8 @@ anno.gene.Also_known_as.pl    ...... Get "NCBI Also known as" annotation with [E
  
 anno.gene.NCBI_bed.pl    ...... Get "NCBI gene current region" annotaiton wiht [ENTREZID]. Could be used after 'anno.gene.description.pl'.
 
+anno.gene.NCBI_RPKM.pl    ...... Get "NCBI full_rpkm of 27 tissues" annotaiton wiht [ENTREZID].
+
 # B
 bam_ID.count.pl    ...... Count reads with the same region. Paired-end reads would consider the insert overlap.
 
