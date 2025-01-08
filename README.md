@@ -50,8 +50,6 @@ fastQ.ASII.pl    ...... output ASII score of fastq file. Only adapted for Phred3
 
 fastq2fasta.pl    ...... fastq to fasta.
 
-fa.random.pl    ...... Random select sequence from .fa file.
-
 fasta.reverse_complement.pl    ...... Output reverse_complement of fasta file.
 
 # G
