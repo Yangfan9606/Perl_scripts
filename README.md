@@ -52,6 +52,8 @@ fastq2fasta.pl    ...... fastq to fasta.
 
 fa.random.pl    ...... Random select sequence from .fa file.
 
+fasta.reverse_complement.pl    ...... Output reverse_complement of fasta file.
+
 # G
 get.reads.form.fastq.pl    ...... output reads in fastq file with reads name.
 
