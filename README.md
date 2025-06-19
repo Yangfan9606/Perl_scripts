@@ -9,8 +9,12 @@ This repository contains Perl scripts for bioinformatics and genomic data proces
 ```
 # 📚 Scripts Overview
 ## 🔍 Gene Annotation
-|Script	|Function
-anno.gene.description.pl	Get ENTREZID and GENENAME with [SYMBOL] or [ENSEMBL]
+### Script
+Function
+------
+anno.gene.description.pl	
+Get ENTREZID and GENENAME with [SYMBOL] or [ENSEMBL]
+------
 anno.gene.NCBI_summary.pl	Get NCBI summary with [ENTREZID]
 anno.gene.Also_known_as.pl	Get "Also known as" annotations
 anno.gene.NCBI_bed.pl	Get NCBI gene regions
@@ -68,26 +72,11 @@ STAR.summary.v2.pl	Summarize STAR alignment
 StatisticsDescriptive.pl	Descriptive statistics
 Super.Alignment.pl	Generate alignment shells
 
-📜 License
-MIT © Yangfan
-
-Key GitHub-compatible elements used:
-1. **Headers**: `#`, `##`, `###`
-2. **Code Blocks**: Triple backticks \`\`\`
-3. **Tables**: Pipe `|` syntax
-4. **Emojis**: `⚙️`, `📊`, `🔍`, etc.
-5. **Bold**: `**text**`
-6. **Italics**: `*text*`
-7. **Links**: `[text](path)`
-8. **Lists**: `-` for unordered lists
-9. **Keyboard Keys**: Backticks for `code`
-10. **Horizontal Rules**: `---`
-
-All script names are linked to their hypothetical paths (e.g., `[anno.gene.description.pl](A/anno.gene.description.pl)`) using GitHub's relative path syntax.
-
-
-# Perl_scripts
-yangfan.pm  # Perl modules. Replace the directory of '/home/yangfan/Data/Bin/perl_script_my/final/' with this pm directory in some scripts.
+# 📜 License
+## MIT © Yangfan
+Maintainer: Yangfan
+Contact: yangfanzhou9606@gmail.com
+Last Updated: June 2025
 
 # A
 anno.gene.description.pl    ...... Get "ENTREZID" and "GENENAME" with [SYMBOL] or [ENSEMBL] id.
