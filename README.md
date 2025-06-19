@@ -52,7 +52,7 @@ This repository contains Perl scripts for bioinformatics and genomic data proces
 |-----------------|------------------------------|
 |`get.reads.form.fastq.pl` |	Extract reads by name
 |`Get.seq.from.fa.pl` |	Fetch sequences (**`[Chr]`****`[Start]`****`[End]`**)
-|`GetFaSeq.of.Pos.pl` |	Fetch sequences (**`[Chr]`****`[Start-End]`**/**`BED`**)
+|`GetFaSeq.of.Pos.pl` |	Fetch sequences (**`[Chr]`** **`[Start-End]`**/**`BED`**)
 |`gRNA.search.whole.fa.FwBw.pl` |	Find 20bp NGG gRNAs (forward/backward)
 |`gRNA.search.whole.fa.pl` |	Find 20bp NGG gRNAs
 
@@ -79,10 +79,15 @@ This repository contains Perl scripts for bioinformatics and genomic data proces
 |`random.select.seq.from.fa.pl` |	Randomly sample **`FASTA`** |
 |`RPKM.calculation.pl` |	Calculate **`RPKM`** from **`HTseq-count`** |
 |`RPKM.normalization.pl` |	Normalize **`RPKM`** values |
+|`RPKM.saturation.pl` | **`RPKM`** Saturation |
 
 ### ⚙️ Utilities
 | Script          | Function                     |
 |-----------------|------------------------------|
+|`Bowtie.summary.pl` | **`Bowtie`** output summary |
+|`Blast.out.summary.pl`| **`Blast`** output summary |
+|`bp.of.seq.pl` | Sequence **`Base`**` info summary |
+|`blastn_for_unMap_Fastq.pl`| **`Blastn`** use **`Fastq`** |
 |`SamFlag.pl` |	Decode **`SAM`**/**`BAM`** flags |
 |`split.file.pl` |	Split files by line count |
 |`STAR.summary.v2.pl` |	Summarize **`STAR`** alignment |
