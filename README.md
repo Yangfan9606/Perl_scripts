@@ -65,7 +65,7 @@ This repository contains Perl scripts for bioinformatics and genomic data proces
 | Script          | Function                     |
 |-----------------|------------------------------|
 |`PE.paired_bam.to.bed.v2.pl` |	Convert PE **`BAM`** → **`BED`** |
-|`PE_Reads.Strand.split.pl	Split` | reads by strand (**`POS`**/**`NEG`**) |
+|`PE_Reads.Strand.split.pl` | Split reads by strand (**`POS`**/**`NEG`**) |
 
 ### 📈 Normalization
 | Script          | Function                     |
