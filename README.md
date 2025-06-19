@@ -6,10 +6,10 @@ This repository contains Perl scripts for bioinformatics and genomic data proces
 **Replace directory paths** in dependent scripts:
 ```perl
 /home/yangfan/Data/Bin/perl_script_my/final/ → your/local/path/
-
-📚 Scripts Overview
-🔍 Gene Annotation
-Script	Function
+```
+# 📚 Scripts Overview
+## 🔍 Gene Annotation
+|Script	|Function
 anno.gene.description.pl	Get ENTREZID and GENENAME with [SYMBOL] or [ENSEMBL]
 anno.gene.NCBI_summary.pl	Get NCBI summary with [ENTREZID]
 anno.gene.Also_known_as.pl	Get "Also known as" annotations
