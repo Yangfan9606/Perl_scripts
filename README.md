@@ -7,11 +7,18 @@ This repository contains Perl scripts for bioinformatics and genomic data proces
 ```perl
 /home/yangfan/Data/Bin/perl_script_my/final/ → your/local/path/
 ```
-# 📚 Scripts Overview
-## 🔍 Gene Annotation
-### Script
-Function
-------
+## 📚 Scripts Overview
+### 🔍 Gene Annotation
+| Script          | Function                     |
+|-----------------|------------------------------|
+|`anno.gene.description.pl`	|Get ENTREZID and GENENAME with [SYMBOL] or [ENSEMBL] |
+|`anno.gene.NCBI_summary.pl`	|Get NCBI summary with [ENTREZID] |
+|`anno.gene.Also_known_as.pl`	|Get "Also known as" annotations |
+|`anno.gene.NCBI_bed.pl`	|Get NCBI gene regions |
+|`anno.gene.NCBI_RPKM.pl`	|Get full RPKM for 27 tissues |
+|`anno.gene.NCBI_RPKM.tissue.pl`	|Get RPKM for specific tissues |
+|`anno.GO_KEGG.pl`	|Get GO/KEGG annotations |
+
 anno.gene.description.pl	
 Get ENTREZID and GENENAME with [SYMBOL] or [ENSEMBL]
 ------
